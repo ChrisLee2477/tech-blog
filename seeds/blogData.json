@@ -1,0 +1,14 @@
+[
+  {
+    "title": "FlexBox is hard",
+    "content": "I've tried to make three pictures show up in like a pyramid, but I can only get it to show up with flexbox."
+  },
+  {
+    "title": "Backend is winningend",
+    "content": "The backend side of web development is so much better than the frontend hands down!!!"
+  },
+  {
+    "title": "StackOver is overrated",
+    "content": "Whenever I use stackoverflow, I can not understand the examples people give."
+  }
+]
